@@ -1,16 +1,18 @@
-## Hi there 👋
+# Optimization & Machine Learning
 
-<!--
-**OptiLearningServices/OptiLearningServices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue ! Ce profil présente mes travaux et supports autour de l'**optimisation** et de l'**apprentissage automatique**.
 
-Here are some ideas to get you started:
+## Domaines
+- Optimisation (existence, unicité, méthodes numériques)
+- Réseaux de neurones (Keras / TensorFlow)
+- Mathématiques appliquées et contrôle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Outils
+Python · NumPy · Keras · MATLAB · LaTeX · Git
+
+## Projets
+- 🚧 À venir : premier projet (optimisation, comparaison d'algorithmes)
+- 🚧 À venir : réseaux de neurones sur MNIST / CIFAR-10
+
+## Contact
+📧 [optilearningservices@gmail.com] · 🔗 [LinkedIn ou site]
