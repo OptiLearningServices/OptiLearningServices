@@ -1,18 +1,18 @@
 # Optimization & Machine Learning
 
-Bienvenue ! Ce profil présente mes travaux et supports autour de l'**optimisation** et de l'**apprentissage automatique**.
+Welcome! This profile presents my work on **optimization methods**, **machine learning**, and **sustainable energy systems**.
 
-## Domaines
-- Optimisation (existence, unicité, méthodes numériques)
-- Réseaux de neurones (Keras / TensorFlow)
-- Mathématiques appliquées et contrôle
+## Focus Areas
+- **Optimization**: existence and uniqueness of solutions, convex analysis, numerical methods
+- **Machine learning**: neural networks with Keras / TensorFlow
+- **Applied mathematics & control**: modeling and analysis of dynamical systems, with applications to sustainable energy
 
-## Outils
-Python · NumPy · Keras · MATLAB · LaTeX · Git
+## Tools
+Python · NumPy · Keras · TensorFlow · MATLAB · LaTeX · Git
 
-## Projets
-- 🚧 À venir : premier projet (optimisation, comparaison d'algorithmes)
-- 🚧 À venir : réseaux de neurones sur MNIST / CIFAR-10
+## Projects
+-  *Coming soon*: comparison of optimization algorithms (gradient descent, Newton, constrained methods)
+-  *Coming soon*: neural networks on MNIST and CIFAR-10
 
 ## Contact
-📧 [optilearningservices@gmail.com] · 🔗 [LinkedIn ou site]
+📧 [optilearningservices@gmail.com](mailto:optilearningservices@gmail.com)
