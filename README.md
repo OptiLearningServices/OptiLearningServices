@@ -10,7 +10,8 @@ Welcome! This profile presents my work on **optimization methods**, **machine le
 ## Tools
 Python · NumPy · Keras · TensorFlow · MATLAB · LaTeX · Git
 ## Arbre 
-Soit un échantillon d'apprentissage $(x_i,y_i)_{1\leq i\leq n}$ avec $x_i\in \mathcal{X}\subset \mathbb{R}^p$ et $y_i \in \mathbb{R}$. 
+Soit un échantillon d'apprentissage $(x_i,y_i)_{1\leq i\leq n}$ avec $x_i\in \mathcal{X}\subset \mathbb{R}^p$ et $y_i \in \mathbb{R}$. Dans le cadre de la régression, un arbre cherche partition
+$\mathcla{P}=\bigcup R_k$ de l'espace $\mathcal{X}$ 
 
 ## Projects
 -  *Coming soon*: comparison of optimization algorithms (gradient descent, Newton, constrained methods)
