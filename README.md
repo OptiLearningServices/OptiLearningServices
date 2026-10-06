@@ -9,6 +9,8 @@ Welcome! This profile presents my work on **optimization methods**, **machine le
 
 ## Tools
 Python · NumPy · Keras · TensorFlow · MATLAB · LaTeX · Git
+## Arbre 
+Soit un échantillon d'apprentissage $(x_i,y_i)$
 
 ## Projects
 -  *Coming soon*: comparison of optimization algorithms (gradient descent, Newton, constrained methods)
